@@ -10,12 +10,6 @@ contact.html    Contact, hours and map
 style.css       Shared design
 
 PHOTOS:
-Put your real salon photos inside the images folder:
-salon.jpg
-photo1.jpg
-photo2.jpg
-photo3.jpg
-photo4.jpg
 
 The sample service prices can be edited directly in services.html and index.html.
 
